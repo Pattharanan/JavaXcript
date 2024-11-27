@@ -1,0 +1,2 @@
+# JavaXcript
+JavaScript Class
